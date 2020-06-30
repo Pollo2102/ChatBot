@@ -1,0 +1,22 @@
+{
+  "active": true,
+  "author": "N/A",
+  "author_email": "N/A",
+  "complete": true,
+  "deployer": "ZipDeploy",
+  "end_time": "2020-06-23T03:47:56.2785103Z",
+  "id": "ec2afe63278045b6a1ab127f8fd62601",
+  "is_readonly": true,
+  "is_temp": false,
+  "last_success_end_time": "2020-06-23T03:47:56.2785103Z",
+  "log_url": "https://testbot2102.scm.azurewebsites.net/api/deployments/latest/log",
+  "message": "Created via a push deployment",
+  "progress": "",
+  "provisioningState": null,
+  "received_time": "2020-06-23T03:45:16.3386311Z",
+  "site_name": "testbot2102",
+  "start_time": "2020-06-23T03:45:16.5729749Z",
+  "status": 4,
+  "status_text": "",
+  "url": "https://testbot2102.scm.azurewebsites.net/api/deployments/latest"
+}
